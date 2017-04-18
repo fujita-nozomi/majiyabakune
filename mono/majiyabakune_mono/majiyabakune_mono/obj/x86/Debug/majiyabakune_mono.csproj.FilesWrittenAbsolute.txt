@@ -1,0 +1,5 @@
+/home/nishikino-maki/majiyabakune.git/majiyabakune/mono/majiyabakune_mono/majiyabakune_mono/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nishikino-maki/majiyabakune.git/majiyabakune/mono/majiyabakune_mono/majiyabakune_mono/bin/Debug/majiyabakune_mono.exe.mdb
+/home/nishikino-maki/majiyabakune.git/majiyabakune/mono/majiyabakune_mono/majiyabakune_mono/bin/Debug/majiyabakune_mono.exe
+/home/nishikino-maki/majiyabakune.git/majiyabakune/mono/majiyabakune_mono/majiyabakune_mono/obj/x86/Debug/majiyabakune_mono.exe
+/home/nishikino-maki/majiyabakune.git/majiyabakune/mono/majiyabakune_mono/majiyabakune_mono/obj/x86/Debug/majiyabakune_mono.exe.mdb

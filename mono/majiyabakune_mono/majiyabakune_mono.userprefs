@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="majiyabakune_mono/majiyabakune_mono.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="majiyabakune_mono/EmptyClass.cs">
+    <Files>
+      <File FileName="majiyabakune_mono/EmptyClass.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
